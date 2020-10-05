@@ -1,0 +1,11 @@
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\netcoreapp2.1\Fibonacci Sequence.deps.json
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\netcoreapp2.1\Fibonacci Sequence.runtimeconfig.json
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\netcoreapp2.1\Fibonacci Sequence.runtimeconfig.dev.json
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\netcoreapp2.1\Fibonacci Sequence.dll
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\netcoreapp2.1\Fibonacci Sequence.pdb
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\netcoreapp2.1\Fibonacci Sequence.csprojAssemblyReference.cache
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\netcoreapp2.1\Fibonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\netcoreapp2.1\Fibonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\netcoreapp2.1\Fibonacci Sequence.AssemblyInfo.cs
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\netcoreapp2.1\Fibonacci Sequence.dll
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\netcoreapp2.1\Fibonacci Sequence.pdb

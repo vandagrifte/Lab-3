@@ -1,0 +1,11 @@
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\bin\Debug\netcoreapp2.1\pyramid.deps.json
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\bin\Debug\netcoreapp2.1\pyramid.runtimeconfig.json
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\bin\Debug\netcoreapp2.1\pyramid.runtimeconfig.dev.json
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\bin\Debug\netcoreapp2.1\pyramid.dll
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\bin\Debug\netcoreapp2.1\pyramid.pdb
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\obj\Debug\netcoreapp2.1\pyramid.csprojAssemblyReference.cache
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\obj\Debug\netcoreapp2.1\pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\obj\Debug\netcoreapp2.1\pyramid.AssemblyInfoInputs.cache
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\obj\Debug\netcoreapp2.1\pyramid.AssemblyInfo.cs
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\obj\Debug\netcoreapp2.1\pyramid.dll
+C:\Users\Zephyr\Desktop\School\CS 233\Lab 3\pyramid\pyramid\obj\Debug\netcoreapp2.1\pyramid.pdb

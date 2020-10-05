@@ -1,0 +1,7 @@
+C:\Users\Elodin\Desktop\School\CS 233\Lab 3\Tower-of-hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.csprojAssemblyReference.cache
+C:\Users\Elodin\Desktop\School\CS 233\Lab 3\Tower-of-hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Elodin\Desktop\School\CS 233\Lab 3\Tower-of-hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.exe.config
+C:\Users\Elodin\Desktop\School\CS 233\Lab 3\Tower-of-hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.exe
+C:\Users\Elodin\Desktop\School\CS 233\Lab 3\Tower-of-hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.pdb
+C:\Users\Elodin\Desktop\School\CS 233\Lab 3\Tower-of-hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.exe
+C:\Users\Elodin\Desktop\School\CS 233\Lab 3\Tower-of-hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.pdb

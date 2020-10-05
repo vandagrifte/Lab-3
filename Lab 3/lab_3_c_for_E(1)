@@ -1,0 +1,163 @@
+PALINDROME PROBLEM
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Palindrome
+{
+    class Program
+    {
+        static void Main()
+        {
+            //allocate memory to store reverse string
+            //strings are basically arrays of chars
+            string reverse = null;
+
+            // get word from user
+            Console.WriteLine("Enter a word to test if it is a palindrome");
+            string word = Console.ReadLine();
+
+            // for every letter in input
+            foreach (char l in word)
+            {
+                /* which assigns the char to the empty string in reverse order
+                 *
+                 *ex) reverse = null; word = "cat";  
+                 * adds first letter of word to reverse.    1 loop: reverse = "l" + reverse       reverse is now = "c"
+                 * 2 loop: "c" = "a" + "c"     revrse is now "at" ect
+                 */
+                reverse = l + reverse; 
+            }
+            // print final reverse string once all letters have been looped in word
+            Console.WriteLine(reverse); 
+
+            //assign palindrome to recursion function outcome 
+            bool palindrome = IsPalindrome(word);
+            if (palindrome == true)
+            {
+                //if palidrome is true then word and reverse are equal 
+                Console.WriteLine(word + " is a palindrome. Reversed " + word  + " is " + reverse);
+            }
+            else
+                //word and reverse are not equal
+                Console.WriteLine(word+ " isn't a palindrome. Reversed " + word + " is " + reverse);
+            Console.ReadLine();
+        }//end main
+
+        //function definition
+        static bool IsPalindrome(string word)
+        {
+            //basecase
+            if (word.Length <= 1)
+            {
+                //if word is one letter it is auto a palindrome
+                return true;
+            }
+            else
+            {
+                //if first letter of word is not the last letter of word
+                if (word[0] != word[word.Length - 1])
+                {
+                    return false;
+                }
+                else
+                {
+                    //funciton is recursively calling itself 
+                    return IsPalindrome(word.Substring(1, word.Length - 2));
+                }
+            }
+
+        }
+    }//class
+}//end namespace
+
+______________________________________________________________________________
+
+TRIANGLE PROBLEM
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TriangularNumbers
+{
+    class Program
+		{
+			static void Main(string[] args)
+			{
+				//for ever number up to 10 excluding 0
+				int num = 1;
+				for (num; num <= 10; num++)
+				{
+					//function call
+					Console.WriteLine(TriangularNumbers(num));
+				}
+
+			}//end main
+
+			//function definition
+			static int TriangularNumbers(int num)
+			{
+				//base case
+				if (num == 1)
+				{
+					//simpilest step
+					return num;
+				}
+				else
+				{
+					// moving towards base case
+					//recursive function w/i itself
+					return num + TriangularNumbers(num - 1);
+				}
+			}
+    }//end class
+}//end namescape
+
+______________________________________________________________________________
+FIBONACCI PROBLEM
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Fibonacci
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Fibonacci Numbers");
+
+            //iterates through 0 - 10
+            for (int num = 0; num <= 10; num++)
+                Console.WriteLine(fib(num));
+        }
+        //end main
+        static int fib(int num)
+        {
+            //base case 
+			//needs to be two seperate if because 0 returns 0
+            if (num == 0 || num == 1)
+            {
+                return 1;
+
+            }
+            return fib(num - 1) + fib(num - 2);
+        }
+    }//end class
+}//end namespace
+
+______________________________________________________________________________
+
+
+
+
+
